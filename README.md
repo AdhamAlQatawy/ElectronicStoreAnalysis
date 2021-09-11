@@ -11,7 +11,8 @@
 ### In this project, I will answer the following questions:
 - What month has the largest sales
 - What day has the most sales
+- What weekday has the most orders
 - What Price Range do people tend to buy more
-- what city has the largest sales 
-- What product has the most quantity ordered
+- Which State, City, and Product has the most orders
 - What is the most and the least profitable product
+- What are the most common products sold together
